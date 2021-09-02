@@ -1,0 +1,7 @@
+{
+    "name": "vendor/axo",
+    "description": "axo",
+    "require": {
+        "php": ">=7.4"
+    }
+}
